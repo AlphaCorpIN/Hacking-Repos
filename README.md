@@ -21,4 +21,6 @@ S.No.| Repository| Category |  Stars | Description
 8.| [Hawk](https://github.com/medpaf/hawk) | Network |  ![GitHub Repo stars](https://img.shields.io/github/stars/medpaf/hawk?style=social)| Network, recon and offensive-security tool for Linux
 
 # Contributing
-You can add more tools to the list by making a pull request.
+You can add more tools to the list by running `insert.py`.
+
+Refer to [contributing.md](https://github.com/AlphaCorpIN/Hacking-Repos/blob/main/CONTRIBUTING.md) for instructions.
