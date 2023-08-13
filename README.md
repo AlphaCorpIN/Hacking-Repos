@@ -19,6 +19,8 @@ S.No.| Repository| Category |  Stars | Description
 6.| [wifiphisher](https://github.com/wifiphisher/wifiphisher) | Wireless |  ![GitHub Repo stars](https://img.shields.io/github/stars/wifiphisher/wifiphisher?style=social)| Rogue Access Point Framework
 7.| [wifite2](https://github.com/derv82/wifite2) | Wireless |  ![GitHub Repo stars](https://img.shields.io/github/stars/derv82/wifite2?style=social)| Python script for auditing wireless networks
 8.| [Hawk](https://github.com/medpaf/hawk) | Network |  ![GitHub Repo stars](https://img.shields.io/github/stars/medpaf/hawk?style=social)| Network, recon and offensive-security tool for Linux
+9.| [seeker](https://github.com/AzeemIdrisi/seeker) | Social Engineering | ![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/seeker?style=social) | Accurately Locate Smartphones using Social Engineering
+10.| [Storm-Breaker](https://github.com/AzeemIdrisi/Storm-Breaker) | Social Engineering | ![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/Storm-Breaker?style=social) | Social engineering tool [Access Webcam & Microphone & Location Finder] With Python
 
 # Contributing
 You can add more tools to the list by running `insert.py`.
