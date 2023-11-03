@@ -22,6 +22,7 @@ S.No.| Repository| Category |  Stars | Description
 9.| [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) | Social Engineering | ![GitHub Repo stars](https://img.shields.io/github/stars/ultrasecurity/Storm-Breaker?style=social) | Social engineering tool [Access Webcam & Microphone & Location Finder] With Python
 10.| [seeker](https://github.com/thewhiteh4t/seeker) | Social Engineering | ![GitHub Repo stars](https://img.shields.io/github/stars/thewhiteh4t/seeker?style=social) | Accurately Locate Smartphones using Social Engineering
 11.| [evillimiter](https://github.com/bitbrute/evillimiter) | Network | ![GitHub Repo stars](https://img.shields.io/github/stars/bitbrute/evillimiter?style=social) | Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
+12.| [zphisher](https://github.com/htr-tech/zphisher) | Social Engineering | ![GitHub Repo stars](https://img.shields.io/github/stars/htr-tech/zphisher?style=social) | An automated phishing tool with 30+ templates.
 
 # Contributing
 You can add more tools to the list by running `insert.py`.
