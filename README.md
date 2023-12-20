@@ -23,6 +23,8 @@ S.No.| Repository| Category |  Stars | Description
 10.| [seeker](https://github.com/thewhiteh4t/seeker) | Social Engineering | ![GitHub Repo stars](https://img.shields.io/github/stars/thewhiteh4t/seeker?style=social) | Accurately Locate Smartphones using Social Engineering
 11.| [evillimiter](https://github.com/bitbrute/evillimiter) | Network | ![GitHub Repo stars](https://img.shields.io/github/stars/bitbrute/evillimiter?style=social) | Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
 12.| [zphisher](https://github.com/htr-tech/zphisher) | Social Engineering | ![GitHub Repo stars](https://img.shields.io/github/stars/htr-tech/zphisher?style=social) | An automated phishing tool with 30+ templates.
+13.| [XeroSploit-Pro](https://github.com/AzeemIdrisi/XeroSploit-Pro) | MITM | ![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/XeroSploit-Pro?style=social) | Efficient and advanced man in the middle framework
+14.| [weevely3](https://github.com/epinna/weevely3) | Exploit | ![GitHub Repo stars](https://img.shields.io/github/stars/epinna/weevely3?style=social) | Weaponized web shell
 
 # Contributing
 You can add more tools to the list by running `insert.py`.
