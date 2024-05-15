@@ -26,6 +26,7 @@ S.No.| Repository| Category |  Stars | Description
 12.| [zphisher](https://github.com/htr-tech/zphisher) | Social Engineering | ![GitHub Repo stars](https://img.shields.io/github/stars/htr-tech/zphisher?style=social) | An automated phishing tool with 30+ templates.
 13.| [XeroSploit-Pro](https://github.com/AzeemIdrisi/XeroSploit-Pro) | MITM | ![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/XeroSploit-Pro?style=social) | Efficient and advanced man in the middle framework
 14.| [weevely3](https://github.com/epinna/weevely3) | Exploit | ![GitHub Repo stars](https://img.shields.io/github/stars/epinna/weevely3?style=social) | Weaponized web shell
+15.| [BlueDucky](https://github.com/pentestfunctions/BlueDucky) | Android | ![GitHub Repo stars](https://img.shields.io/github/stars/pentestfunctions/BlueDucky?style=social) | A powerful tool for exploiting a vulnerability in Bluetooth devices.
 
 # Contributing
 You can add more tools to the list by running `insert.py`.
